@@ -24,7 +24,7 @@ All data was using release 5 GP2 data (access-controlled via single-sign on on a
 
 | **Notebooks** |                                                    **Description**                                                   |
 |:----------------:|:--------------------------------------------------------------------------------------------------------------------:|
-|        PP2A_AMP_PD    | PTPA variants screening in AMP PD data v2.5 |
+|        PP2A_AMP_PD    | PTPA variants screening in AMP PD data v2.5 - European ancestry |
 |        PP2A_GP2_AAC  | PTPA variants screening in GP2 data (release 5) - African admixed ancestry |
 |        PP2A_GP2_AFR      | PTPA variants screening in GP2 data (release 5) - African ancestry |
 |        PP2A_GP2_AJ    | PTPA variants screening in GP2 data (release 5) - Ashkenazi Jewish ancestry |
