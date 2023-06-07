@@ -7,7 +7,7 @@
 **Last Updated:** June 2023 
 
 ## Summary
-This is the online repository for the manuscript titled ***"PTPA variants and the risk for Parkinson’s disease in diverse ancestry populations"***. This study focuses on exploring the role of PTPA in existing PD/control datasets
+This is the online repository for the manuscript titled ***"PTPA variants and the risk for Parkinson’s disease in diverse ancestry populations"***. This study focuses on exploring the role of PTPA in existing PD/control datasets from the AMP PD and GP2 initiatives
 
 ### Data Statement 
 All data was using release 5 GP2 data (access-controlled via single-sign on on amp-pd.org).
